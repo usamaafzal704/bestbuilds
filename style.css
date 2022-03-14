@@ -93,7 +93,11 @@ a{
 a:hover, a.more-links.bolded-links:hover{
   font-size:20px;
   color:#8f8;
+}
 
+a:hover {
+  font-size: 25px;
+  color: white;
 }
 
 .more-links{
