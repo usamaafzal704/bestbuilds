@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Press+Start+2P&family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Roboto:ital,wght@1,300&display=swap');
 html {
-  background: url(bestnews.jpg) no-repeat center center fixed;
+  background: url(https://images7.alphacoders.com/113/thumbbig-1132533.webp) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -142,8 +142,8 @@ article:active{
   border:2px solid #000;
   height: 600px;
   max-height:200px;
-  /* overflow:scroll;
-  overflow-x:hidden; */
+  overflow:scroll;
+  overflow-x:hidden;
 }
 .copyright {
   font-size: 15px;
@@ -151,12 +151,4 @@ article:active{
 }
 .copyright:active {
 color:yellow;
-}
-
-.my-text{
-  border:2px solid #000;
-  height: 600px;
-  max-height:200px;
-  overflow:scroll;
-  overflow-x:hidden;
 }
