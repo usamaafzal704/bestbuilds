@@ -95,11 +95,6 @@ a:hover, a.more-links.bolded-links:hover{
   color:#8f8;
 }
 
-a:hover {
-  font-size: 25px;
-  color: white;
-}
-
 .more-links{
   font-style: italic;
 }
