@@ -138,3 +138,10 @@ article:active{
   /* overflow:scroll;
   overflow-x:hidden; */
 }
+.copyright {
+  font-size: 15px;
+  color: red;
+}
+.copyright:active {
+color:yellow;
+}
